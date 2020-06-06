@@ -1,3 +1,10 @@
 # nlw-rocketseat
 Next Level Week Rocketseat - Project Ecoleta
-Technologies: Nodejs, React and React Native
+
+## Built With
+
+* NodeJs
+* React
+* React Native
+* SQLite
+
